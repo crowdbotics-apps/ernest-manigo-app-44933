@@ -1486,19 +1486,8 @@
     uuid "^8.3.2"
     zustand "^3.5.13"
 
-"@modules/chat@file:./modules/chat/":
-  version "1.1.0"
-  dependencies:
-    is-url "^1.2.4"
-    pubnub "^4.33.0"
-    pubnub-react "^2.1.0"
-    react-native-emoji-selector "0.2.0"
-    react-native-fs "2.19.0"
-    react-native-gifted-chat "^2.1.0"
-    react-native-popup-menu "0.15.12"
-    react-native-video "5.2.1"
-    uuid "^8.3.2"
-    zustand "^3.5.13"
+"@modules/mixpanel-analytics@file:./modules/mixpanel-analytics/":
+  version "1.0.0"
 
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
   version "5.1.1-v1"
@@ -6709,6 +6698,11 @@ mixin-deep@^1.2.0:
   dependencies:
     for-in "^1.0.2"
     is-extendable "^1.0.1"
+
+mixpanel-react-native@^2.3.1:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/mixpanel-react-native/-/mixpanel-react-native-2.4.0.tgz#058032fa89c67e8167c03933864236878750221d"
+  integrity sha512-pq7USOLMSo8edTogY3EQFQo9b9m72PTCUT2Hhu7i/LlFhksI+NBwpXwMZjcCj+QnFzi52qzlcaQ36GFkEHGZ3w==
 
 mkdirp@^0.5.1:
   version "0.5.6"
