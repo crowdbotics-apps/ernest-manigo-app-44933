@@ -18,6 +18,7 @@
     "@modules/chat": "file:./modules/chat/",
     "@modules/mixpanel-analytics": "file:./modules/mixpanel-analytics/",
     "@modules/payments": "file:./modules/payments",
+    "@modules/privacy-policy": "file:./modules/privacy-policy",
     "@react-native-community/checkbox": "0.5.10",
     "@react-native-masked-view/masked-view": "^0.2.9",
     "@react-navigation/native": "^6.1.6",

@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-s3-file-uploader](backend/modules)
 - [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 - [payments]()
+- [privacy-policy]()
 
 # Getting started: Frontend
 
