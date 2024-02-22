@@ -1558,9 +1558,6 @@
 "@modules/mixpanel-analytics@file:./modules/mixpanel-analytics":
   version "1.0.0"
 
-"@modules/mixpanel-analytics@file:./modules/mixpanel-analytics/":
-  version "1.0.0"
-
 "@modules/payments@file:./modules/payments":
   version "1.0.1"
 
@@ -1580,6 +1577,9 @@
     react-native-get-random-values "^1.6.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
     uuid "^8.3.2"
+
+"@modules/subscription@file:./modules/subscription":
+  version "1.0.1"
 
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
   version "5.1.1-v1"
